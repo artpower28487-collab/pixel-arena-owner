@@ -1,0 +1,32 @@
+{
+  "slots": [],
+  "rates": {
+    "Cricket": [
+      1000,
+      1200
+    ],
+    "Pickleball": [
+      500,
+      600
+    ],
+    "Badminton": [
+      200,
+      250
+    ],
+    "Volleyball": [
+      1000,
+      1200
+    ]
+  },
+  "offer": {
+    "title": "Weekend Game Time",
+    "type": "percent",
+    "value": 10,
+    "sport": "all",
+    "from": "",
+    "until": "",
+    "code": "",
+    "active": true
+  },
+  "history": []
+}
